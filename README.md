@@ -13,5 +13,4 @@ Scan a prescription, let a clinician verify it, then explain it to the patient i
 
 ## Model
 
-Gemma 4 via the Gemini API (`<model ID>`), or locally via Ollama (`gemma4:e2b`).
-Gemma license: `<link to the model card>`
+Gemma 4 via the Gemini API, or locally via Ollama (`gemma4:e2b`).
